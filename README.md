@@ -26,8 +26,8 @@ technology that shapes and inspires the future!
   - Social media webapp/app that connects local artists with customers!
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chibdibs&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chibdibs&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Chibdibs&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chibdibs&theme=blueberry&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibdibs&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack:
