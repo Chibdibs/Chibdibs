@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋🏽 Hi, I am Nino!
-I am a fullstack Python developer from the US, currently based out of Tokyo, Japan. 
+I am a fullstack Python developer and freelancer from the US, currently based out of Tokyo, Japan. 
 I am passionate about working with AI, ML, & blockchain technology. And building
 technology that shapes and inspires the future!
 
