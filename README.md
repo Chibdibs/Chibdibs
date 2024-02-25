@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋🏽 Hi, I am Nino!
-I'm a Full-Stack Python Developer and Freelancer originally from the US, currently exploring the vibrant tech scene in Tokyo, Japan. My journey in technology is driven by a deep passion for Artificial Intelligence (AI), Machine Learning (ML), and Blockchain technology. Beyond coding, I'm dedicated to designing innovative solutions that not only solve today's challenges but also inspire and shape the future.
-
-Let's connect and create something amazing together!
+I'm a Full-Stack Python Developer and Freelancer originally from the US, currently exploring the vibrant tech scene in Tokyo, Japan. My journey in technology is driven by a deep passion for Artificial Intelligence (AI), Machine Learning (ML), and Blockchain technology. Beyond coding, I'm dedicated to designing innovative solutions that not only solve today's challenges but also inspire and shape the future. Let's connect and create something amazing together!
 
  ### Currently working on:
   - Simple diablo-styled Action RPG using Pygame!
